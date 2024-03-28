@@ -20,9 +20,9 @@
         }
     },
     "page-index": {
-        "title-page": "about us",
-        "keywords-seo": "about us",
-        "description-seo": "about us",
+        "title-page": "homepage",
+        "keywords-seo": "homepage",
+        "description-seo": "homepage",
         "jumbotron": {
             "title": "let's collaborate to make your product more valuable and attractive.",
             "description": "For everyone, from beginners to experts."
