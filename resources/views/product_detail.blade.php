@@ -60,7 +60,7 @@
                                 <div class="border-bottom h-100 py-5">
                                     <div class="row justify-content-between">
                                         <div class="col-6">
-                                            <a class="text-cap" href="#">{{ ucfirst($v->title) }}</a>
+                                            <a class="text-cap" href="{{ route('product.show', $v->slug) }}">{{ ucfirst($v->title) }}</a>
                                             <div class="mb-0">
                                                 {!! Str::limit($v->description, 100) !!}
                                             </div>
