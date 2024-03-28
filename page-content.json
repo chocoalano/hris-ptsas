@@ -1,1 +1,148 @@
-{"config":{"footer":{"logo":"assets\/svg\/logos\/LOGO-SAS-01.svg","address":"153 Williamson Plaza, Maggieberg","phone":"+1 (062) 109-9222","sosmed":[{"icon":"bi-facebook","link":""},{"icon":"bi-google","link":""},{"icon":"bi-twitter","link":""},{"icon":"bi-github","link":""}]}},"page-index":{"title-page":"about us","keywords-seo":"about us","description-seo":"about us","jumbotron":{"title":"let's collaborate to make your product more valuable and attractive.","description":"For everyone, from beginners to experts."},"content-client-top":["01HS7YSSV6H4CT444QD7NY0H72.svg","01HS7YSSVA4JR55FK41M82461Y.svg"],"container-content-first":{"title":"We provide offering solutions involving professional hands","paragraph":"We have developed a simple process system for you to have your own quality product and start taking a fabulous journey with us. Here\u2019s what we can do for you.","description":"Use our tools to explore your ideas and make your vision come true. Then share your work easily.","btn-link":"#","figure":{"image_first":"01HS837S5YEK3HZGNJ4SA9YFHA.svg","image_second":"01HS7YSSVC89HTZG1GBJH3WWSK.jpg","image_thirth":"01HS7YSSVEK87196GXACCR9A9T.jpg"}},"container-content-second":[{"title":"Responsive","description":"Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.","svg":"01HS7YSSVHVQSJQZYRRGJ9125T.svg"},{"title":"Customizable","description":"Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.","svg":"01HS7YSSVK8N6T87CW09QGAW1N.svg"},{"title":"Premium","description":"Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.","svg":"01HS7YSSVP2HK7SGFZ1VKAA6GA.svg"},{"title":"Documentation","description":"Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.","svg":"01HS7YSSVRNX227DJYARNQ4CAB.svg"}],"container-content-thirth":{"title":"Read our latest news","description":"We've helped some great companies brand, design and get to market.","btn-link":"http:\/\/localhost:8000\/home\/#"},"container-content-fourth":{"title":"Trusted by Open Source, enterprise, and more than 33,000 of you","img-client":["01HS7YSSVTZJZ4DHWN94RQ0KBH.svg","01HS7YSSVWYJAMJ1GMF8TQF5RC.svg","01HS7YSSVY1HE3Q88KEYENFPN1.svg","01HS7YSSW0MAN1M65D29F78KSS.svg"]},"gallery":{"title":"About Us","description":"Front is a web company that builds websites. Businesses of every size\u2014from new startups to public companies\u2014use our theme to build and manage their businesses online.","image":["01HS84S9B5Q191TGAGBVH1PC09.jpg","01HS84S9B9R2CCG17NCT88VT7V.jpg","01HS84S9BBQW0EB0RP5MHZAENB.jpg","01HS84S9BD3HC4DT84QNJ8JT0W.jpg","01HS84S9BF7CJ5RH51ZMAS3DC7.jpg"]},"feature":[{"title":"years in business","value":7},{"title":"copies sold","value":"3.5K +"},{"title":"happy customers","value":"85 %"}],"info":{"col-1":"Tools should adapt to the user, not the other way around.","col-2":"<p>Since 2007, we have helped 25 companies launch over 1k incredible products. We believe the best digital solutions are built at the intersection of business strategy, available technology, and real user's needs.<\/p><p>Things can get really complex, really quickly, and a pragmatic, synthetic and clear vision is essential to be able to create something that, after all, is meant to be used. Emotions also have a big role to play and developing clear and beautiful aesthetics is of the utmost importance to create a pleasant environment in which the user actually enjoys the time spent in it. In the end, we're all suckers for beautiful things that just work<\/p>"}},"page-about":{"title-page":"about us","keywords-seo":"about us","description-seo":"about us","gallery":{"title":"About Us","description":"Front is a web company that builds websites. Businesses of every size\u2014from new startups to public companies\u2014use our theme to build and manage their businesses online.","image":["01HS84S9B5Q191TGAGBVH1PC09.jpg","01HS84S9B9R2CCG17NCT88VT7V.jpg","01HS84S9BBQW0EB0RP5MHZAENB.jpg","01HS84S9BD3HC4DT84QNJ8JT0W.jpg","01HS84S9BF7CJ5RH51ZMAS3DC7.jpg"]},"feature":[{"title":"years in business","value":7},{"title":"copies sold","value":"3.5K +"},{"title":"happy customers","value":"85 %"}],"info":{"col-1":"Tools should adapt to the user, not the other way around.","col-2":"<p>Since 2007, we have helped 25 companies launch over 1k incredible products. We believe the best digital solutions are built at the intersection of business strategy, available technology, and real user's needs.<\/p><p>Things can get really complex, really quickly, and a pragmatic, synthetic and clear vision is essential to be able to create something that, after all, is meant to be used. Emotions also have a big role to play and developing clear and beautiful aesthetics is of the utmost importance to create a pleasant environment in which the user actually enjoys the time spent in it. In the end, we're all suckers for beautiful things that just work<\/p>"}},"page-services":{"title-page":"services","keywords-seo":"services","description-seo":"services","gallery":{"title":"Design-led and user-centric strategies can impact people's life.","image-1":"01HS86JQVT3486RPFKR03TYQVS.jpg","image-2":"01HS86JQVZZMBQ2V8VDBW1GEKX.jpg"},"icon-blocks":{"text-cap":"What we do","h2-title":"Since 2007, we have helped 25 companies launch over 1k incredible products"},"clients":{"title":"As seen on...","img-client":["01HS86JQW2CH16JAFFQJT1NCS9.svg","01HS86JQW5KXXBXEVG4HM96QSX.svg","01HS86JQW8SD16TEEYXZXWANAX.svg"]}},"page-article":{"title-page":"articles","keywords-seo":"articles","description-seo":"articles","jumbotron":{"title":"Newsroom Articles","description":"Latest updates and Hand-picked resources."}},"page-product":{"title-page":"product","keywords-seo":"product","description-seo":"product","jumbotron":{"title":"Product Projects","description":"Latest updates and Hand-picked resources."}}}
+{
+    "config": {
+        "footer": {
+            "logo": "assets\/svg\/logos\/LOGO-SAS-01.svg",
+            "address": "Jl. Prabu Kiansantang Kp. Sangiang No. 169 A Gebang Raya, Priuk, Kota Tangerang Banten",
+            "phone": "-",
+            "sosmed": [{
+                "icon": "bi-facebook",
+                "link": ""
+            }, {
+                "icon": "bi-google",
+                "link": ""
+            }, {
+                "icon": "bi-twitter",
+                "link": ""
+            }, {
+                "icon": "bi-github",
+                "link": ""
+            }]
+        }
+    },
+    "page-index": {
+        "title-page": "about us",
+        "keywords-seo": "about us",
+        "description-seo": "about us",
+        "jumbotron": {
+            "title": "let's collaborate to make your product more valuable and attractive.",
+            "description": "For everyone, from beginners to experts."
+        },
+        "content-client-top": ["01HS7YSSV6H4CT444QD7NY0H72.svg", "01HS7YSSVA4JR55FK41M82461Y.svg"],
+        "container-content-first": {
+            "title": "We provide offering solutions involving professional hands",
+            "paragraph": "We have developed a simple process system for you to have your own quality product and start taking a fabulous journey with us. Here\u2019s what we can do for you.",
+            "description": "Use our tools to explore your ideas and make your vision come true. Then share your work easily.",
+            "btn-link": "#",
+            "figure": {
+                "image_first": "01HS837S5YEK3HZGNJ4SA9YFHA.svg",
+                "image_second": "01HS7YSSVC89HTZG1GBJH3WWSK.jpg",
+                "image_thirth": "01HS7YSSVEK87196GXACCR9A9T.jpg"
+            }
+        },
+        "container-content-second": [{
+            "title": "Responsive",
+            "description": "Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.",
+            "svg": "01HS7YSSVHVQSJQZYRRGJ9125T.svg"
+        }, {
+            "title": "Customizable",
+            "description": "Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.",
+            "svg": "01HS7YSSVK8N6T87CW09QGAW1N.svg"
+        }, {
+            "title": "Premium",
+            "description": "Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.",
+            "svg": "01HS7YSSVP2HK7SGFZ1VKAA6GA.svg"
+        }, {
+            "title": "Documentation",
+            "description": "Front is an incredibly beautiful, fully responsive, and mobile-first projects on the web.",
+            "svg": "01HS7YSSVRNX227DJYARNQ4CAB.svg"
+        }],
+        "container-content-thirth": {
+            "title": "Read our latest news",
+            "description": "We've helped some great companies brand, design and get to market.",
+            "btn-link": "http:\/\/localhost:8000\/home\/#"
+        },
+        "container-content-fourth": {
+            "title": "Trusted by Open Source, enterprise, and more than 33,000 of you",
+            "img-client": ["01HS7YSSVTZJZ4DHWN94RQ0KBH.svg", "01HS7YSSVWYJAMJ1GMF8TQF5RC.svg", "01HS7YSSVY1HE3Q88KEYENFPN1.svg", "01HS7YSSW0MAN1M65D29F78KSS.svg"]
+        },
+        "gallery": {
+            "title": "About Us",
+            "description": "Front is a web company that builds websites. Businesses of every size\u2014from new startups to public companies\u2014use our theme to build and manage their businesses online.",
+            "image": ["01HS84S9B5Q191TGAGBVH1PC09.jpg", "01HS84S9B9R2CCG17NCT88VT7V.jpg", "01HS84S9BBQW0EB0RP5MHZAENB.jpg", "01HS84S9BD3HC4DT84QNJ8JT0W.jpg", "01HS84S9BF7CJ5RH51ZMAS3DC7.jpg"]
+        },
+        "feature": [{
+            "title": "years in business",
+            "value": 7
+        }, {
+            "title": "copies sold",
+            "value": "3.5K +"
+        }, {
+            "title": "happy customers",
+            "value": "85 %"
+        }],
+        "info": {
+            "col-1": "Tools should adapt to the user, not the other way around.",
+            "col-2": "<p>Since 2007, we have helped 25 companies launch over 1k incredible products. We believe the best digital solutions are built at the intersection of business strategy, available technology, and real user's needs.<\/p><p>Things can get really complex, really quickly, and a pragmatic, synthetic and clear vision is essential to be able to create something that, after all, is meant to be used. Emotions also have a big role to play and developing clear and beautiful aesthetics is of the utmost importance to create a pleasant environment in which the user actually enjoys the time spent in it. In the end, we're all suckers for beautiful things that just work<\/p>"
+        }
+    },
+    "page-about": {
+        "title-page": "about us",
+        "keywords-seo": "about us",
+        "description-seo": "about us",
+        "gallery": {
+            "title": "About Us",
+            "description": "Front is a web company that builds websites. Businesses of every size\u2014from new startups to public companies\u2014use our theme to build and manage their businesses online.",
+            "image": ["01HS84S9B5Q191TGAGBVH1PC09.jpg", "01HS84S9B9R2CCG17NCT88VT7V.jpg", "01HS84S9BBQW0EB0RP5MHZAENB.jpg", "01HS84S9BD3HC4DT84QNJ8JT0W.jpg", "01HS84S9BF7CJ5RH51ZMAS3DC7.jpg"]
+        },
+        "feature": [{
+            "title": "years in business",
+            "value": 7
+        }, {
+            "title": "copies sold",
+            "value": "3.5K +"
+        }, {
+            "title": "happy customers",
+            "value": "85 %"
+        }],
+        "info": {
+            "col-1": "Tools should adapt to the user, not the other way around.",
+            "col-2": "<p>Since 2007, we have helped 25 companies launch over 1k incredible products. We believe the best digital solutions are built at the intersection of business strategy, available technology, and real user's needs.<\/p><p>Things can get really complex, really quickly, and a pragmatic, synthetic and clear vision is essential to be able to create something that, after all, is meant to be used. Emotions also have a big role to play and developing clear and beautiful aesthetics is of the utmost importance to create a pleasant environment in which the user actually enjoys the time spent in it. In the end, we're all suckers for beautiful things that just work<\/p>"
+        }
+    },
+    "page-services": {
+        "title-page": "services",
+        "keywords-seo": "services",
+        "description-seo": "services",
+        "gallery": {
+            "title": "Design-led and user-centric strategies can impact people's life.",
+            "image-1": "01HS86JQVT3486RPFKR03TYQVS.jpg",
+            "image-2": "01HS86JQVZZMBQ2V8VDBW1GEKX.jpg"
+        },
+        "icon-blocks": {
+            "text-cap": "What we do",
+            "h2-title": "Since 2007, we have helped 25 companies launch over 1k incredible products"
+        },
+        "clients": {
+            "title": "As seen on...",
+            "img-client": ["01HS86JQW2CH16JAFFQJT1NCS9.svg", "01HS86JQW5KXXBXEVG4HM96QSX.svg", "01HS86JQW8SD16TEEYXZXWANAX.svg"]
+        }
+    },
+    "page-article": {
+        "title-page": "articles",
+        "keywords-seo": "articles",
+        "description-seo": "articles",
+        "jumbotron": {
+            "title": "Newsroom Articles",
+            "description": "Latest updates and Hand-picked resources."
+        }
+    },
+    "page-product": {
+        "title-page": "product",
+        "keywords-seo": "product",
+        "description-seo": "product",
+        "jumbotron": {
+            "title": "Product Projects",
+            "description": "Latest updates and Hand-picked resources."
+        }
+    }
+}

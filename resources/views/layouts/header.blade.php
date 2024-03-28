@@ -3,7 +3,7 @@
     data-hs-header-options='{"fixMoment": 1000,"fixEffect": "slide"}'>
     <div class="container">
         <nav class="js-mega-menu navbar-nav-wrap">
-            <a class="navbar-brand" href="index.html" aria-label="Front">
+            <a class="navbar-brand" href="{{ route('home.index') }}" aria-label="Front">
                 @php
                     $logo = trim($__env->yieldContent('dark')) == 'dark' ? 'LOGO-SAS-01.svg' : 'LOGO-SAS-02.svg';
                 @endphp
