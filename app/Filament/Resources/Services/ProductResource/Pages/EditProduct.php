@@ -5,6 +5,7 @@ namespace App\Filament\Resources\Services\ProductResource\Pages;
 use App\Filament\Resources\Services\ProductResource;
 use Filament\Actions;
 use Filament\Resources\Pages\EditRecord;
+use Illuminate\Support\Str;
 
 class EditProduct extends EditRecord
 {
@@ -16,4 +17,11 @@ class EditProduct extends EditRecord
             Actions\DeleteAction::make(),
         ];
     }
+
+    protected function mutateFormDataBeforeSave(array $data): array
+    {
+        $data['slug'] = Str::of($data['title'])->slug('-');
+        return $data;
+    }
+
 }
